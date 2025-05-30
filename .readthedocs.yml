@@ -6,6 +6,8 @@ build:
     python: "3.11"
   commands:
     - python -m ensurepip --upgrade
+    - python -m pip install -r requirements.txt
+    - python -m sphinx.cmd.build -b html . $READTHEDOCS_OUTPUT/html
 
 sphinx:
   configuration: conf.py
