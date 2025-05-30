@@ -1,19 +1,19 @@
-SPHINXOPTS    =
-SPHINXBUILD   = sphinx-build
-SOURCEDIR     = .
-BUILDDIR      = _build
+# Account Management
 
-help:
-	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)\" $(SPHINXOPTS) $(O)
+## Managing Multiple Accounts
 
-install:
-	python -m ensurepip --upgrade
-	python -m pip install -r requirements.txt
+- Creating new accounts
+- Account labeling
+- Account types
 
-html: install
-	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)\" $(SPHINXOPTS) $(O)
+## Coin Management
 
-.PHONY: help Makefile install html
+- Adding new coins
+- Managing tokens
+- Exchange integration
 
-%: Makefile
-	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)\" $(SPHINXOPTS) $(O)
+## Backup and Recovery
+
+- Recovery process
+- Account restoration
+- Emergency procedures
