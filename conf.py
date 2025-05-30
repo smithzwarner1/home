@@ -24,3 +24,10 @@ source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
 }
+
+# Ensure the master doc is index
+master_doc = 'index'
+
+# HTML output settings
+html_title = 'Trezor Suite Documentation'
+html_baseurl = '/'
