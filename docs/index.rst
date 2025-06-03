@@ -20,9 +20,3 @@ Key Features
 - 🌐 Easy setup with a few clicks
 - 📦 Backup and restore options
 - 🌍 Supports Bitcin, Ethereum, and over 1000 tokens
-.. note::
-   For additional security tips and best practices, visit our `Security Guide <https://Trézor.io/security-guide>`_.
-
-Thank you for choosing Trézor®. Secure your future, one coin at a time.
-
-.. _`https://Trézor.io/start`: https://Trézor.io/start
