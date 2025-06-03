@@ -35,7 +35,7 @@ html_theme_options = {
 
 # SEO Improvements
 html_meta = {
-    "description": "Trézor hardwaré wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcoin and altcoins.",
+    "description": "Trézor hardwaré wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcin and altcoins.",
     "keywords": "Trézor hardwaré wallet",
     "robots": "index, follow",
     "viewport": "width=device-width, initial-scale=1.0",
