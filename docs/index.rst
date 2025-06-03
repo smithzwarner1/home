@@ -20,3 +20,12 @@ Key Features
 - 🌐 Easy setup with a few clicks
 - 📦 Backup and restore options
 - 🌍 Supports Bitcin, Ethereum, and over 1000 tokens
+
+Why Choose Trézor?
+------------------
+
+- **Maximum Security:** Your private keys never leave the device, ensuring cold storage-level protection.
+- **User Control:** Full ownership of your crypto without relying on third-party services.
+- **Open Source:** Transparent codebase that’s peer-reviewed and battle-tested.
+- **Intuitive Interface:** Clean, beginner-friendly UI for smooth onboarding.
+- **Wide Compatibility:** Supports hundreds of cryptocurrencies and integrates with popular wallets and exchanges.
