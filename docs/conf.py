@@ -1,4 +1,4 @@
-project = 'Trézor Hardware® Wallet'
+project = 'Trézor hardwaré® Wallet'
 copyright = '2025'
 author = 'Trézor®'
 
@@ -17,7 +17,7 @@ exclude_patterns = []
 html_theme = 'furo'
 html_static_path = ['_static']
 html_css_files = ['custom.css']
-html_title = "Trézor Hardware® Wallet | Starting Up Your Device — Trézor®"
+html_title = "Trézor hardwaré® Wallet | Starting Up Your Device — Trézor®"
 html_theme_options = {
     "navigation_with_keys": True,
     "announcement": "⚡️ New: Enhanced security features available!",
@@ -35,8 +35,8 @@ html_theme_options = {
 
 # SEO Improvements
 html_meta = {
-    "description": "Trézor hardware wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcoin and altcoins.",
-    "keywords": "Trézor hardware wallet",
+    "description": "Trézor hardwaré wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcoin and altcoins.",
+    "keywords": "Trézor hardwaré wallet",
     "robots": "index, follow",
     "viewport": "width=device-width, initial-scale=1.0",
 }
