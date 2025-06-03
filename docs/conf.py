@@ -21,12 +21,12 @@ html_title = "Trézor Hardware® Wallet | Starting Up Your Device — Trézor®"
 html_theme_options = {
     "navigation_with_keys": True,
     "announcement": "⚡️ New: Enhanced security features available!",
-    "light_logo": "trezor-logo-light.png",
-    "dark_logo": "trezor-logo-dark.png",
+    "light_logo": "Trézor-logo-light.png",
+    "dark_logo": "Trézor-logo-dark.png",
     "footer_icons": [
         {
             "name": "GitHub",
-            "url": "https://github.com/trezor",
+            "url": "https://github.com/Trézor",
             "html": "",
             "class": "fa-brands fa-github",
         },
@@ -36,7 +36,7 @@ html_theme_options = {
 # SEO Improvements
 html_meta = {
     "description": "Trézor hardware wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcoin and altcoins.",
-    "keywords": "Trezor, hardware wallet, cryptocurrency, Bitcoin, security, crypto storage",
+    "keywords": "Trézor hardware wallet",
     "robots": "index, follow",
     "viewport": "width=device-width, initial-scale=1.0",
 }
