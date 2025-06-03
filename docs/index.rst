@@ -1,3 +1,16 @@
+Take control of your crypto in **Trézor Suit**
+-----------------------------------------------
+
+Manage your assets in one app.
+
+**Options:**
+
+- :guilabel:`Download for desktop`
+- :guilabel:`Continue in browser`
+- :guilabel:`More`
+
+Trézor Suit is a powerful desktop and browser-based application that helps you manage your cryptocurrency securely and efficiently.
+
 Trézor hardwaré® Wallet | Starting Up Your Device — Trézor®
 ===========================================================
 
