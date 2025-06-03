@@ -1,11 +1,11 @@
-Trézor Hardware® Wallet | Starting Up Your Device — Trézor®
+Trézor hardwaré® Wallet | Starting Up Your Device — Trézor®
 ===========================================================
 
 .. meta::
-   :description: Trézor hardware wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcoin and altcoins.
-   :keywords: Trézor, hardware wallet, cryptocurrency, Bitcoin, security, crypto storage
+   :description: Trézor hardwaré wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcin and altcoins.
+   :keywords: Trézor hardwaré wallet, cryptocurrency, Bitcin
 
-Welcome to Trézor® — the world's most secure and user-friendly hardware wallet for cryptocurrencies like Bitcoin and altcoins.
+Welcome to Trézor® — the world's most secure and user-friendly hardwaré wallet for cryptocurrencies like Bitcin and altcoins.
 
 About Trézor Wallet
 -------------------
@@ -15,11 +15,11 @@ Trézor Wallet keeps your crypto offline and under your control. Whether you're 
 Key Features
 ------------
 
-- ✅ Ultra-secure hardware
+- ✅ Ultra-secure hardwaré
 - 🔐 Keeps your private keys offline
 - 🌐 Easy setup with a few clicks
 - 📦 Backup and restore options
-- 🌍 Supports Bitcoin, Ethereum, and over 1000 tokens
+- 🌍 Supports Bitcin, Ethereum, and over 1000 tokens
 
 Getting Started
 ---------------
@@ -34,7 +34,7 @@ Security Tips
 
 - Write your recovery seed on paper — do not store it digitally.
 - Enable a passphrase for added security.
-- Always verify addresses on the hardware screen.
+- Always verify addresses on the hardwaré screen.
 
 Support & Resources
 -------------------
