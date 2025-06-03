@@ -1,3 +1,8 @@
+.. image:: Capture.PNG
+   :alt: Trézor Suit Download Options
+   :align: center
+   :width: 600px
+
 Take control of your crypto in **Trézor Suit**
 -----------------------------------------------
 
