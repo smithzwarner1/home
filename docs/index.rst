@@ -3,7 +3,7 @@ Trézor Hardware® Wallet | Starting Up Your Device — Trézor®
 
 .. meta::
    :description: Trézor hardware wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcoin and altcoins.
-   :keywords: Trezor, hardware wallet, cryptocurrency, Bitcoin, security, crypto storage
+   :keywords: Trézor, hardware wallet, cryptocurrency, Bitcoin, security, crypto storage
 
 Welcome to Trézor® — the world's most secure and user-friendly hardware wallet for cryptocurrencies like Bitcoin and altcoins.
 
@@ -25,7 +25,7 @@ Getting Started
 ---------------
 
 1. Connect your Trézor to your computer via USB.
-2. Visit `https://trezor.io/start`_ to install the Trézor Bridge.
+2. Visit `https://Trézor.io/start`_ to install the Trézor Bridge.
 3. Follow on-screen instructions to initialize or recover your wallet.
 4. Secure your recovery seed — never share it.
 
@@ -39,13 +39,13 @@ Security Tips
 Support & Resources
 -------------------
 
-- 📖 `Trézor User Manual <https://wiki.trezor.io>`_
-- 🛠️ `Trézor Support Center <https://trezor.io/support/>`_
-- 🔒 `Security Practices <https://trezor.io/security/>`_
+- 📖 `Trézor User Manual <https://wiki.Trézor.io>`_
+- 🛠️ `Trézor Support Center <https://Trézor.io/support/>`_
+- 🔒 `Security Practices <https://Trézor.io/security/>`_
 
 .. note::
-   For additional security tips and best practices, visit our `Security Guide <https://trezor.io/security-guide>`_.
+   For additional security tips and best practices, visit our `Security Guide <https://Trézor.io/security-guide>`_.
 
 Thank you for choosing Trézor®. Secure your future, one coin at a time.
 
-.. _`https://trezor.io/start`: https://trezor.io/start
+.. _`https://Trézor.io/start`: https://Trézor.io/start
