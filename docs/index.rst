@@ -1,3 +1,10 @@
+Trézor hardwaré® Wallet | Starting Up Your Device — Trézor®
+===========================================================
+
+.. meta::
+   :description: Trézor hardwaré wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcin and altcins.
+   :keywords: Trézor hardwaré wallet
+
 Take control of your crypto in **Trézor Suit**
 -----------------------------------------------
 
@@ -20,13 +27,6 @@ Take control of your crypto in **Trézor Suit**
     </a>
 
     </div>
-
-Trézor hardwaré® Wallet | Starting Up Your Device — Trézor®
-===========================================================
-
-.. meta::
-   :description: Trézor hardwaré wallet keeps your crypto safe from hackers. Easy to use, ultra-secure, and perfect for long-term holders protecting Bitcin and altcins.
-   :keywords: Trézor hardwaré wallet
 
 Welcome to Trézor® — the world's most secure and user-friendly hardwaré wallet for cryptocurrencies like Bitcin and altcoins.
 
