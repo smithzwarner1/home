@@ -1,20 +1,36 @@
-.. image:: Capture.PNG
-   :alt: Trézor Suit Download Options
-   :align: center
-   :width: 600px
-
-Take control of your crypto in **Trézor Suit**
------------------------------------------------
+**Take control of your crypto in**  
+``Trézor Suit``
 
 Manage your assets in one app.
 
-**Options:**
+--------------
 
-- :guilabel:`Download for desktop`
-- :guilabel:`Continue in browser`
-- :guilabel:`More`
+Download Options
+----------------
 
-Trézor Suit is a powerful desktop and browser-based application that helps you manage your cryptocurrency securely and efficiently.
+.. raw:: html
+
+   <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1em;">
+
+   <a href="#" style="text-decoration: none;">
+       <button style="background-color: #047857; color: white; padding: 10px 20px; border-radius: 6px; font-weight: bold;">
+           Download for desktop
+       </button>
+   </a>
+
+   <a href="#" style="text-decoration: none;">
+       <button style="background-color: #e5e7eb; color: black; padding: 10px 20px; border-radius: 6px; font-weight: bold;">
+           Continue in browser
+       </button>
+   </a>
+
+   <a href="#" style="text-decoration: none;">
+       <button style="background-color: transparent; border: 1px solid #9ca3af; padding: 10px 20px; border-radius: 6px; font-weight: bold;">
+           More
+       </button>
+   </a>
+
+   </div>
 
 Trézor hardwaré® Wallet | Starting Up Your Device — Trézor®
 ===========================================================
