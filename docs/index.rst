@@ -1,36 +1,25 @@
-**Take control of your crypto in**  
-``Trézor Suit``
+Take control of your crypto in **Trézor Suit**
+-----------------------------------------------
 
-Manage your assets in one app.
-
---------------
-
-Download Options
-----------------
+*Manage your assets in one app.*
 
 .. raw:: html
 
-   <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1em;">
+    <div style="margin-top: 30px;">
 
-   <a href="#" style="text-decoration: none;">
-       <button style="background-color: #047857; color: white; padding: 10px 20px; border-radius: 6px; font-weight: bold;">
-           Download for desktop
-       </button>
-   </a>
+    <a href="#" style="background-color: #007c58; color: white; padding: 12px 24px; border-radius: 24px; text-decoration: none; font-weight: bold; margin-right: 12px;">
+        Download for desktop
+    </a>
 
-   <a href="#" style="text-decoration: none;">
-       <button style="background-color: #e5e7eb; color: black; padding: 10px 20px; border-radius: 6px; font-weight: bold;">
-           Continue in browser
-       </button>
-   </a>
+    <a href="#" style="background-color: #eaeaea; color: #000; padding: 12px 24px; border-radius: 24px; text-decoration: none; font-weight: bold; margin-right: 12px;">
+        Continue in browser
+    </a>
 
-   <a href="#" style="text-decoration: none;">
-       <button style="background-color: transparent; border: 1px solid #9ca3af; padding: 10px 20px; border-radius: 6px; font-weight: bold;">
-           More
-       </button>
-   </a>
+    <a href="#" style="color: #007c58; font-weight: bold; text-decoration: none;">
+        More &#9662;
+    </a>
 
-   </div>
+    </div>
 
 Trézor hardwaré® Wallet | Starting Up Your Device — Trézor®
 ===========================================================
